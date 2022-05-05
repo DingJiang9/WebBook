@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Feel free to contact me by email DingJiang9@github.com
